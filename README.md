@@ -7,3 +7,5 @@ Class SudokuInteractive is a sub-class of Sudoku. The class is interactive, cont
 Class SudokuSolve is a sub-class of Sudoku. It is used to solve any sudoku puzzle using an iterative method.
 
 You can run the main method from the Sudoku Interactive class
+
+In the main method please set a file location for a text document Sudoku puzzle
