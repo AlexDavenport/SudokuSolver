@@ -8,4 +8,4 @@ Class SudokuSolve is a sub-class of Sudoku. It is used to solve any sudoku puzzl
 
 You can run the main method from the Sudoku Interactive class
 
-In the main method please set a file location for a text document Sudoku puzzle
+In the main method please set a file location for a text document Sudoku puzzle (in a similar formate to exampleSudoku.txt)
