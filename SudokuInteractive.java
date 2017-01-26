@@ -182,6 +182,6 @@ public class SudokuInteractive extends Sudoku{
 	 * @param args The method play is instigated.
 	 */
 	public static void main(String[] args){
-		SudokuInteractive.play("/home/students/axd638/Current Work/WS1-5/Sudoku/test-sudoku.txt");	
+		SudokuInteractive.play("***ENTER FILE LOCATION OF PUZZLE***.txt");	
 	}
 }
